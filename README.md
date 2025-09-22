@@ -18,7 +18,7 @@ A MATLAB App Designer GUI created to accelerate the process of building an image
 
 Training a computer vision model requires a large, well-labeled dataset. Manually creating this dataset by capturing, separating, and cropping images is tedious and time-consuming. This application streamlines the workflow by leveraging video recordings. A user can record a video of multiple crystals, and then use this tool to quickly extract high-quality, tightly-cropped images of each one, making dataset creation significantly faster.
 
-![Screenshot of the app interface](assets/app-screenshot.png)
+![Screenshot of the app interface](/screenshot_app.png)
 
 ---
 
